@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/BradleyLund/StockScraper/issues"
   },
-  "homepage": "https://github.com/BradleyLund/StockScraper#readme"
+  "homepage": "https://github.com/BradleyLund/StockScraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "google-spreadsheet": "^3.0.13",
+    "node-fetch": "^2.6.1"
+  }
 }
